@@ -9,8 +9,8 @@ Mount the control where you reach it with your remote control and mount the LED 
 
 I just use an old 5V smartphone charger to supply the control
 
-#tools
-use Andy's AAcircuit to draw the schematic:
+# Tools
+use Andy's great AAcircuit to draw the schematic:
 https://github.com/Andy1978/AACircuit
 
 use Microchip's ATMEL Studio 7 for development:
