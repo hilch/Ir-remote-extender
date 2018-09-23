@@ -5,7 +5,7 @@ Extend your 36kHz infrared remote control with this simple tool.
 It receives commands and just send it to its infrared LED.
 The LED pins can be extended with a cable.
 
-https://github.com/hilch/Ir-remote-extender/blob/master/doc/screenshot_schematic.PNG
+![Screenshot 1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/screenshot_schematic.PNG)
 
 #tools
 use Andy's AAcircuit to draw the schematic:
