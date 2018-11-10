@@ -11,7 +11,7 @@ I just use an old 5V smartphone charger to supply the control:
 ![photo1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2768.JPG)
 
 Solder side:
-![photo2](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2770.JPG)
+![photo2](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2770.jpg)
 
 # Tools
 use Andy's great AAcircuit to draw the schematic:
