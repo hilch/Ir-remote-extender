@@ -7,7 +7,11 @@ Mount the control where you reach it with your remote control and mount the LED 
 
 ![Screenshot 1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/screenshot_schematic.PNG)
 
-I just use an old 5V smartphone charger to supply the control
+I just use an old 5V smartphone charger to supply the control:
+![photo1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2768.JPG)
+
+Solder side:
+![photo1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2770.JPG)
 
 # Tools
 use Andy's great AAcircuit to draw the schematic:
