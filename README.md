@@ -5,12 +5,14 @@ Extend your 36kHz infrared remote control with this simple tool.
 It receives commands and just send it to its infrared LED that can be extended by a cable (ca. 1 meter)
 Mount the control where you reach it with your remote control and mount the LED near your device(s).
 
+## Schematic
 ![Screenshot 1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/screenshot_schematic.PNG)
 
+## Topside
 I just use an old 5V smartphone charger to supply the control:
 ![photo1](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2768.JPG)
 
-Solder side:
+## Solder side:
 ![photo2](https://github.com/hilch/Ir-remote-extender/blob/master/doc/IMG_2770.jpg)
 
 # Tools
